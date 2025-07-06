@@ -25,7 +25,7 @@
 <table><tr><td valign="top" width="100%">
 
 <div align="center">  
-<a href="https://angular.io/" target="_blank"><img style="margin:15px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="40" /></a>  
+<a href="https://angular.io/" target="_blank"><img style="margin:15px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="40"  /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin:15px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin:15px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="40" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin:15px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" /></a>  
