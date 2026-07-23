@@ -82,6 +82,7 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/vbeal" target="_blank">
+  
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/victorbeal" target="_blank">
@@ -94,8 +95,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbeal&hide_border=true&layout=compact" align="center" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vbeal&show_icons=true&locale=en" alt="vbeal" /></p>
+<div align="center"><img src="https://github-stats-extended.vercel.app/api?username=vbeal">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vbeal&langs_count=4" align="center" />
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vbeal&" alt="vbeal" /></p></div>  
 
