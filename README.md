@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQEz93aWABerGw/profile-displayphoto-shrink_200_200/B4DZS0qOhsGkAY-/0/1738197757592?e=1786579200&v=beta&t=as30QpsmT1pd-RbQkCnq85c_qvIj7ULQD-EHNeV7uY4" align="center" style="width: 100%" />
-</div>  
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQEz93aWABerGw/profile-displayphoto-shrink_200_200/B4DZS0qOhsGkAY-/0/1738197757592?e=1786579200&v=beta&t=as30QpsmT1pd-RbQkCnq85c_qvIj7ULQD-EHNeV7uY4" align="center" style="width: 130" />
+
   
 
 ### **<div align="center">Eu sou 👋Victor Beal, sou Desenvolvedor Full Stack, Back-End, Front-End desde 2000, e nesses mais de 20 anos desenvolvi diversos projetos. 🚀</div>**  
-  
+  </div>  
 
 - 🔭Meu último grande projeto foi um sistema na área de criptomoedas, onde desenvolvi um sistema completo com robôs de alertas, sinais e autotrade e diversas plataformas.  
   
